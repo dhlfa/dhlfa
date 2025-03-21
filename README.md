@@ -9,7 +9,7 @@
 ### 🚀 About Me  
 - 💻 Passionate about coding and learning new technologies  
 - 🚀 Building cool projects  
-- 📫 Reach me at: [Instagram](https://instagram.com/cosrent.dva)  
+- 📫 Reach me at: [Instagram](https://instagram.com/dhalfaairus_)  
 
 ### ✨ Fun Fact  
 I love solving problems and creating awesome things! 🚀  
