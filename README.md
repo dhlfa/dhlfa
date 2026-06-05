@@ -1,19 +1,6 @@
 # ─── ❖ ─── ✦ ─── ❖ ───
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Dhalfa!&fontSize=40&animation=fadeIn" alt="Header" />
-</p>
-
 ## 🚀 About Me
-
-<table align="right">
-  <tr>
-    <td>
-      <!-- Ganti dhlfa dengan username GitHub kamu jika ada update -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlfa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 - 💻 **Passionate about coding** and learning new technologies.
 - 🛠️ **Building cool projects** and solving complex problems.
@@ -28,15 +15,20 @@
   </a>
 </p>
 
-<br clear="right"/>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlfa&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Dhalfa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlfa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlfa&show_icons=true&theme=dark" alt="Dhalfa's GitHub Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlfa&layout=compact&theme=dark" alt="Top Languages" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlfa&theme=dark" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
