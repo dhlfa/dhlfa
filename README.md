@@ -19,14 +19,12 @@
 
 ## 📊 GitHub Analytics
 
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlfa&show_icons=true&theme=dark" alt="Dhalfa's GitHub Stats" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhlfa&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Dhalfa's Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlfa&layout=compact&theme=dark" alt="Top Languages" width="100%" />
-</p>
-
+### 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlfa&theme=dark" alt="GitHub Streak" width="100%" />
 </p>
