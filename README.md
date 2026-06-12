@@ -27,7 +27,7 @@ I am a results-driven **Full Stack Software Engineer** focused on building high-
 │  Open To: Enterprise Roles | AI Integration | Full-Stack Core Systems  │
 └────────────────────────────────────────────────────────────────────────┘
 
-```
+
 ## 🛠️ Tech Stack
 ### Languages
 <p align="left">
@@ -171,7 +171,7 @@ Exploring:
 Open To:
   - Collaborative open-source projects or enterprise consultations
 
-```
+
 ## 🤝 Connect
 <div align="center">
 <a href="mailto:dhalfairus@gmail.com">
